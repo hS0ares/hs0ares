@@ -1,12 +1,15 @@
 ## Hi there 👋
--🔭 I’m currently working as Salesforce Developer, where I was involved in the design, development, and deployment of Salesforce components using Aura and LWC. I also handled general configuration of the Salesforce Org and automated tools. My role required working closely with agile methodologies, particularly SCRUM and Kanban, to ensure dynamic delivery and continuous improvement. Additionally, I managed integrations using SOAP, REST, and GraphQL APIs, and supported both the functional team and technical leaders with development and QA.
+- 🔭 I’m currently working as Salesforce Developer, where I was involved in the design, development, and deployment of Salesforce components using Aura and LWC. I also handled general configuration of the Salesforce Org and automated tools. My role required working closely with agile methodologies, particularly SCRUM and Kanban, to ensure dynamic delivery and continuous improvement. Additionally, I managed integrations using SOAP, REST, and GraphQL APIs, and supported both the functional team and technical leaders with development and QA.
 
+I chose to specialize in Salesforce development due to its powerful capabilities and the significant impact it has on businesses. The platform’s flexibility and the continuous evolution of its features make it an exciting field to work in. I find it rewarding to solve complex business problems, enhance customer experiences, and drive digital transformation for organizations using Salesforce.
+
+- 🌱 I’m currently learning new super badges on Salesforce Trailhead.
+ 
 <!--
 **hS0ares/hs0ares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning new modules on Salesforce Trailhead.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
